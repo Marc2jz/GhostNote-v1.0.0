@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*.log
+*.pdb
+*.ilk
+build/
+.vscode/
+supabase/.temp/
